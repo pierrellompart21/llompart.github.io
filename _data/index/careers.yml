@@ -1,30 +1,73 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Sanofi R&D
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Supported two target projects over the past three years, collaborating closely with medicinal chemists to ensure the optimal application of my work while proactively offering my expertise. Curated hundreds of experimental data based on expert-knowledge and conditions metadata. Led research in ADMET modeling, leveraging multi-task learning and novel deep learning architectures covering two thousands endpoints. Developed and implemented a novel approach for hit and lead prioritization. Managed virtual screening and analysis of commercial libraries, driving the acquisition of thousands of compound screening plates for testing against novel therapeutic targets.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2022 - Now
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Research Associate - Industrial PhD Candidate
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Helios NeoPharma
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Conducted ultra-large virtual screening of commercial libraries using machine learning, docking and active learning. This work was coupled to predictive Graph Neural Network for data annotation and led to the analysis of poly-pharmacological protein network using ChEMBL, PubChem, and STITCH data.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2021 - 2022
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Deep Learning Engineer
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: Sanofi R&D
+    i18n: company_a
+  desc:
+    detail: Led the design of innovative protocols for large-step scaffold-hopping of lead series by probabilistic unsupervized learning. The approach was applied for the analysis and comparison of industrial in-house and external chemical data with the ZINC and ENAMINE screening libraries.
+    i18n: company_a_desc
+  date:
+    detail: 2021
+    i18n: company_a_date
+  job:
+    detail: Computational Chemist - Research Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Adaptative and Functional Biology - CNRS
+    i18n: company_b
+  desc:
+    detail: Performed Structure-Based and Ligand-Based modeling of a membrane ABC-transporter protein in collaboration with an experimental team. My work involved homology modeling, ligand-protein and peptide-protein docking, as well as full-atoms peptide-protein molecular dynamics simulations. Additionally, I optimized the hit peptide's amino acid sequence using a Genetic Algorithm, which was designed to minimize a machine-learning-based binding affinity function.
+    i18n: company_b_desc
+  date:
+    detail: 2020
+    i18n: company_b_date
+  job:
+    detail: Molecular Modeler - Research Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: EFS - INSERM
+    i18n: company_b
+  desc:
+    detail: Studied the monocyte differenciation signaling pathways from Human blood samples, and worked on the preparation of the assays, testing, cell-cultures, data acquisition, and data analysis of temporal measurements.
+    i18n: company_b_desc
+  date:
+    detail: 2018
+    i18n: company_b_date
+  job:
+    detail: Biochemist - Immunology - Research Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+  
